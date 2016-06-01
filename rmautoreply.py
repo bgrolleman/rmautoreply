@@ -14,4 +14,4 @@ def respond_to_communication():
 if __name__ == '__main__':
     import doctest
     doctest.testmod()
-    print respond_to_communication()
+    print(respond_to_communication())
