@@ -1,0 +1,5 @@
+# Python comiled files
+*.py[co]
+
+# Rope project (refactoring in vim)
+.ropeproject
